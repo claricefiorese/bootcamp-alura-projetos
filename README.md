@@ -2,14 +2,14 @@
 # <p align="center"> <b> BOOTCAMP DATA SCIENCE APLICADA - ALURA  </b> 
 ---
  
-##  💻 Descrição</br> </br> 
+##  💻 Descrição
 
 Neste bootcamp serão desenvolvidos projetos reais na área da saúde divididos em 6 módulos, onde técnicas de análise de dados, estatística, modelagem e visualização de dados de forma prática e aplicada serão aprofundadas.
 <br>O objetivo é aprender Python, Pandas, Matplotlib, Seaborn, Scikit-Learn e diversas outras bibliotecas Python; compreender o workflow de um projeto de Data Science; saber como estruturar e comunicar seus resultados para justificar as análises e conclusões, mostrando o quão importante é o papel dos dados para otimizar processos e resultados.
 
 ---
-##  💻 Módulos</br> </br> 
-
+##  💻 Módulos 
+</b></br>
 - Módulo 01: Python e Pandas para análise de dados reais </b></br></br>
 Neste módulo vamos aprender como utilizar Python, Pandas e Matplotlib para explorar os dados financeiros do SUS, mais precisamente os gastos por Unidade Federativa ao longo dos anos. 
 Os desafios se iniciam na aquisição dos dados em uma plataforma do governo e seus possíveis problemas, passando pelo leitura destes dados com o Pandas até a criação de hipóteses na área da saúde, que sempre devem ser cuidadosas, simulando os desafios diários de uma pessoa cientista de dados.
